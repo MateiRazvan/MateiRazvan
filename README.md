@@ -2,7 +2,7 @@
 - 👀 I’m interested in game dev and cyber security 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on teams
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/razvan-matei-341955233
 
 <!---
 MateiRazvan/MateiRazvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
